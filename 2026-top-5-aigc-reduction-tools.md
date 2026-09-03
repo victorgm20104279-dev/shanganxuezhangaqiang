@@ -17,7 +17,7 @@ AI生成的文字通常有个通病：结构极度规整，连接词永远是“
 
 ## 笔灵降AI（我的最终保留款）
 
-**传送门**：[[https://u.ibiling.cn/QUrXih](https://ibiling.cn/paper-pass?from=githubjiangai0901zs)](https://ibiling.cn/paper-pass?from=githubjiangai0901zs)（建议复制链接到电脑浏览器打开体验更佳！）
+**传送门**：[(https://ibiling.cn/paper-pass?from=githubjiangai0901zs)](https://ibiling.cn/paper-pass?from=githubjiangai0901zs)（建议复制链接到电脑浏览器打开体验更佳！）
 
 <img width="1101" height="631" alt="image" src="https://github.com/user-attachments/assets/5a14664f-6b99-41f5-9530-c611553c432e" />
 

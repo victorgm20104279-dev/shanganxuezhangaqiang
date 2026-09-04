@@ -2,7 +2,8 @@
 
 手打的十万字心血，一查AIGC全红，这委屈谁懂？
 
-Image
+<img width="699" height="696" alt="image" src="https://github.com/user-attachments/assets/a539d8e5-3914-44a0-92e0-26489e4b3a06" />
+
 如今检测系统太苛刻，句式规整点就被误判。为彻底搞定降ai，我花半个月用标红报告，把市面9款呼声最高的工具测了个遍。想找硬核降ai率工具，或白嫖免费降ai率工具，看这篇实测直接抄作业，轻松降低ai率！
 
 ## 第一梯队：定稿急救箱
@@ -11,20 +12,24 @@ Image
 ## 1、笔灵降AI
 **传送门**：：https://ibiling.cn/paper-pass?from=githubjiangai0901z（建议复制链接到电脑浏览器打开体验更佳！）
 
-Image
+<img width="1101" height="631" alt="image" src="https://github.com/user-attachments/assets/113a859f-3451-4260-bdd7-2a2c544bc34e" />
+
 **核心功能**：降ai效果好，免去多次调整，无口语化。
 
 **实测感受**：
 
 这是我测下来综合体验最能打的一款。万字长篇报告放进去，特征直降到12%，不用反复修改调整。
 
-Image
+<img width="1280" height="1088" alt="image" src="https://github.com/user-attachments/assets/264d57a2-0919-474c-85fb-cb38baba4b81" />
+
 最绝的是它保留原格式，复杂的层级标题、图表全部原封不动，改完直接能用。
 
-Image
+<img width="1019" height="436" alt="image" src="https://github.com/user-attachments/assets/e6c2c9f4-bd79-4c46-beed-4e90c1f48349" />
+
 语风把控极佳，通篇专业化表述，毫无口语化问题。并且字数极度稳定，变化严格控制在1000字以内，绝不乱塞废话。
 
-Image
+
+
 **踩坑经验**：
 
 非纯免费，收费3元/千字，但比市面均价便宜一半，对预算有限党非常友好。时间紧迫、追求定稿直出的首选。
@@ -32,7 +37,8 @@ Image
 ## 2、言笔AI写作
 **传送门**：https://www.yanbiai.com/
 
-Image
+<img width="1280" height="580" alt="image" src="https://github.com/user-attachments/assets/b4d9a126-6995-4b6b-8beb-7af940f2900c" />
+
 **核心功能**：长段落语义重构，保持上下文连贯。
 
 **实测感受**：
@@ -46,7 +52,8 @@ Image
 ## 3、SpeedAI
 **传送门**：https://speedai.fun/
 
-Image
+<img width="1280" height="619" alt="image" src="https://github.com/user-attachments/assets/2b8508cd-1c8d-4808-a744-0bd0fe96c7b1" />
+
 **核心功能**：局部精准修改，适合细节微调。
 
 **实测感受**：
@@ -63,7 +70,8 @@ Image
 ## 4、DeepSeek
 **传送门**：https://chat.deepseek.com/
 
-Image
+<img width="1280" height="696" alt="image" src="https://github.com/user-attachments/assets/930e0600-2ba2-49f4-9a74-fe925feaf59e" />
+
 **核心功能**：强悍国产大模型逻辑推理，完全零成本。
 
 **实测感受**：
@@ -77,7 +85,8 @@ Image
 ## 5、嘎嘎降AI
 **传送门**：https://www.aigcleaner.com
 
-Image
+<img width="1141" height="450" alt="image" src="https://github.com/user-attachments/assets/f9328cc3-bcc1-4d99-ac41-d521e0cf4750" />
+
 **核心功能**：双栏高亮对比清晰，附带一定免费体验额度。
 
 **实测感受**：
@@ -91,7 +100,8 @@ Image
 ## 6、写作狗
 传送门：https://www.xiezuodog.com/
 
-Image
+<img width="1280" height="710" alt="image" src="https://github.com/user-attachments/assets/e0116dfa-dc9f-438e-bde2-1a7b2fe43a17" />
+
 **核心功能**：轻量级快手工具，一键快速替换同义词。
 
 **实测感受**：
@@ -108,7 +118,8 @@ Image
 ## 7、QuillBot
 **传送门**：https://quillbot.com/
 
-Image
+<img width="1280" height="595" alt="image" src="https://github.com/user-attachments/assets/9fd2ec4e-86b1-4af8-bb8f-af82127df909" />
+
 **核心功能**：英文文本专精，多模式地道改写。
 
 **实测感受**：
@@ -122,7 +133,8 @@ Image
 ## 8、火龙果写作
 **传送门**：http://www.mypitaya.com
 
-Image
+<img width="1280" height="629" alt="image" src="https://github.com/user-attachments/assets/c35ff65a-5ec8-493b-9529-9ee912ea36f5" />
+
 **核心功能v：排查错别字与语病，基础语法纠错体检。
 
 **实测感受**：
@@ -136,7 +148,8 @@ Image
 ## 9、茅茅虫
 **传送门**：https://bing.mymmc.cn/?msclkid=69db067e13341e53e22a6c354a4d9e50
 
-Image
+<img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/092f3292-2ac2-45e7-9af5-2901922692c8" />
+
 **核心功能**：大而全的综合工具箱，涵盖排版格式调整。
 
 **实测感受**：
@@ -148,7 +161,8 @@ Image
 大而全往往不够精。在优化文本表达质量方面稍显力不从心，修改后的语句容易变得冗长，文本原创度仍有提升空间。想要切实提升内容质量，还是选专攻降低ai的工具更稳妥。
 
 ## 长篇报告降AI工具使用指南
-Image
+![Uploading image.png…]()
+
 ## 最后掏心窝子嘱咐一句：
 
 不管用了多贵、多牛的工具，拿回来的文稿一定要自己从头到尾通读一遍！工具只是辅助我们提升内容原创度和优化文本表达质量，但内容的灵魂和逻辑走向，还得靠你自己来把控。希望这篇干货测评能帮大家少走弯路，稳稳通关！
